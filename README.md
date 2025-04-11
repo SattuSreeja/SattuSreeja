@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a dedicated and enthusiastic Computer Science 
 ---
 
 ## 🔧 Technical Skills
-- *Languages:* Java (Core), Python (Basic), C++, JavaScript (Novice)
+- *Languages:* Java , Python , C++, JavaScript .
 - *Web & DB Technologies:* HTML, CSS, SQL, DBMS
 - *Tools & Platforms:* VS Code, Git, GitHub, Microsoft Office Suite
 - *Operating System:* Windows
