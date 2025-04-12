@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm a dedicated and enthusiastic Computer Science 
 
 ![Sreeja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithut&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sithut&layout=compact)
 
 ---
 
